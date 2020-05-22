@@ -7,4 +7,5 @@ green
 orange
 red
 pink
+purple
 This is my poem
